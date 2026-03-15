@@ -32,4 +32,6 @@
 > Project Management & Tech Systems: 
 - MySQL • Qualys • Archer • MS Project • Primavera • Smartsheet • Risk & Scope Management • Cost Management
 
--->
+## 📫 Let's Connect
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mrugank-a-kothadiya-/)
+- Email: k.mrugank24@gmail.com
