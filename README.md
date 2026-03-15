@@ -1,32 +1,35 @@
-## Hi there, I’m Mrugank 👋 
+## 🚀 About Me
+**Hi there, I’m Mrugank 👋** 
+- 📜**AI-native Product Manager** with a CS background, specializing in 0→1 products and growth experimentation.
 
-📜I have solid background in Product Management, Program Management, Project Management and Cybersecurity. With a Bachelor's in Computer Science and a Master's in Project Management, I possess a strong foundation in both technical and managerial domains.
+- 🔭 Currently building AI-powered product tools and shipping B2C/B2B digital products
+- 🎓 Master's in Project Management @ Northeastern University
+- 💡 Background in Computer Science + Cybersecurity + Program Management
+- 📍 Based in the US | Open to PM roles
 
-📁 What am I Bringing to the Table?
+## 📈 Recent Wins
+- 📄 Shipped 24+ product pages with zero engineering dependency on B2C marketplace
+- 📊 Increased CTR by 24% through analytics-driven A/B testing
+- ⚡ Cut page launch time from 2 weeks to 3 days
+- 👥 Onboarded 14 designers into a B2B affiliate program
 
-## 🧠 Core Strengths
-Product & Program Management
-- AI Product Strategy • AI Prototyping • Product Analytics • Roadmapping • Backlog Prioritization • Stakeholder Management • Risk & Scope Control • Market & User Problem Analysis • Cross Functional Leadership
+## 🤖 AI Projects
+### [PM Studio](https://pmstudio.lovable.app)
+> AI-powered tool that generates PRDs and wireframes for PMs and founders  
+- Built 0→1 using Lovable with custom prompt architecture and feedback loops  
+- Reduced early-stage documentation time by 60%+ based on real user sessions
 
-AI & Modern Product Builds
-- AI Agents • Prompt Design • Workflow Automation • AI Prototyping • Wireframing • System Design Thinking
+## 🛠️ What I Work With
+> Product Management
+- AI Product Strategy • AI Prototyping • A/B Testing • Product Analytics • Funnel Analysis • Roadmapping • Backlog Prioritization • Stakeholder Management • Market Research & User Research • Cross Functional Leadership
 
-## 🛠 Tools: 
-### Product & Analytics:
-  Jira • Confluence • Aha • Amplitude • GA4 • Tableau • Smartsheet 
+> Product & Analytics:
+- Jira • Confluence • Amplitude Analytics • GA4 • Tableau 
 
-- AI Prototyping & Automation:  
-  Figma • Lovable • Emergent • ChatGPT & LLMs • n8n • Zapier
+> AI Prototyping & Automation:  
+- Figma • Lovable • Emergent • ChatGPT & LLMs • n8n • Zapier
 
-- Technical & Systems: 
-  MySQL • Qualys • Archer • MS Project • Primavera 
+> Project Management & Tech Systems: 
+- MySQL • Qualys • Archer • MS Project • Primavera • Smartsheet • Risk & Scope Management • Cost Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
